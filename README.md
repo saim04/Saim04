@@ -1,52 +1,51 @@
-<div align="center">
-  <h1>Hi 👋, I'm Saim Fayyaz</h1>
-  <p><b>A passionate Full Stack Developer building scalable software and AI-augmented products.</b></p>
-</div>
+<h1 align="center">Hi 👋, I'm Saim Fayyaz</h1>
+<h3 align="center">A passionate Full Stack Developer building scalable software and AI-augmented products.</h3>
 
-<br />
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="400">
 
-### 🎓 Education
-**Bachelor of Science (BS) in Computer Science**  
-*FAST National University of Computer and Emerging Sciences, Karachi*  
-2022 – Present
+- 🔭 I'm currently working on **AI-augmented platforms and modern web applications**
+- 🌱 I'm currently learning **Advanced Cloud Architecture and AI integration workflows**
+- 👨‍💻 All of my projects are available at [https://saim04.github.io](https://saim04.github.io)
+- 💬 Ask me about **Full Stack Development, React, Node.js, and integrating LLMs**
+- 📫 How to reach me **saimfayyaz124@gmail.com**
+- ⚡ Fun fact **I can catch a bug faster than the compiler itself!**
 
-<br />
-
-### 🌐 Connect with Me
+<h3 align="left">🎓 Education</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/saim-fayyaz-029a18231/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:saimfayyaz124@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/923404857461" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  <b>Bachelor of Science (BS) in Computer Science</b><br/>
+  FAST National University of Computer and Emerging Sciences, Karachi<br/>
+  <i>2022 – Present</i>
 </p>
 
-<br />
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/saim-fayyaz-029a18231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:saimfayyaz124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+  <a href="https://wa.me/923404857461" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 
-### 🛠️ Skills & Technologies
-**Languages & Web:**  
-`JavaScript` `TypeScript` `Python` `C++` `HTML5` `CSS3`
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,firebase,docker,git,vercel&perline=10" />
+</p>
 
-**Frameworks & Libraries:**  
-`React` `Next.js` `React Native` `Expo` `Tailwind CSS` `Bootstrap`
+<br/>
 
-**Backend & Database:**  
-`Node.js` `Express.js` `MongoDB` `PostgreSQL` `SQL Server` `Firebase`
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saim04&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
-**Tools & AI:**  
-`Docker` `Git` `OpenAI` `LangChain` `Groq` `Vercel`
+<p align="left">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saim04&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<br />
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saim04&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p> 
 
-### 🔥 GitHub Stats & Streak
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saim04&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-<br />
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saim04&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<br/>
+
+<div align="center">
+  <h3>🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
+  <img src="https://komarev.com/ghpvc/?username=saim04&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
