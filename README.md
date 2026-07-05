@@ -5,7 +5,6 @@
 
 - 🔭 I'm currently working on **AI-augmented platforms and modern web applications**
 - 🌱 I'm currently learning **Advanced Cloud Architecture and AI integration workflows**
-- 👨‍💻 All of my projects are available at [https://saim04.github.io](https://saim04.github.io)
 - 💬 Ask me about **Full Stack Development, React, Node.js, and integrating LLMs**
 - 📫 How to reach me **saimfayyaz124@gmail.com**
 - ⚡ Fun fact **I can catch a bug faster than the compiler itself!**
@@ -32,16 +31,12 @@
 <br/>
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saim04&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="left">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saim04&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saim04&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p> 
+</p>
 
 <br/>
 
