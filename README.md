@@ -12,8 +12,8 @@
 <h3 align="left">🎓 Education</h3>
 <p align="left">
   <b>Bachelor of Science (BS) in Computer Science</b><br/>
-  FAST National University of Computer and Emerging Sciences, Karachi<br/>
-  <i>2022 – Present</i>
+  Ned University of Engineering and Technology, Karachi<br/>
+  <i>2022 – 2026</i>
 </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
