@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saim Fayyaz</h1>
-<h3 align="center">A passionate Full Stack Developer building scalable software and AI-augmented products.</h3>
+<h3 align="center">A Full Stack Software Developer building scalable Web & Mobile applications and expanding into Generative AI, AI Agents, and System Design.</h3>
 
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="400">
 
-- 🔭 I'm currently working on **AI-augmented platforms and modern web applications**
-- 🌱 I'm currently learning **Advanced Cloud Architecture and AI integration workflows**
-- 💬 Ask me about **Full Stack Development, React, Node.js, and integrating LLMs**
-- 📫 How to reach me **saimfayyaz124@gmail.com**
-- ⚡ Fun fact **I can catch a bug faster than the compiler itself!**
+* 🔭 I'm currently working on **Web & Mobile applications and exploring modern software architectures**
+* 🌱 I'm currently learning **Generative AI, AI Agents, AI-Assisted Development, and System Design**
+* 🏗️ I'm deepening my knowledge of **Software Architecture, Scalability, Distributed Systems, and Cloud Architecture**
+* 💬 Ask me about **Full Stack Development, React, Node.js, Mobile Development, and AI integrations**
+* ⚡ Fun fact **I can catch a bug faster than the compiler itself!**
 
 <h3 align="left">🎓 Education</h3>
 <p align="left">
